@@ -1,16 +1,12 @@
-## Hi there 👋
 
-<!--
-**duaazehra43/duaazehra43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/Zukhrufaa-Memon">
+    <img src="https://img.shields.io/github/followers/zukhrufaa-memon?label=GitHub&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  </a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="https://www.linkedin.com/in/zukhrufa-memon" >
+   <img alt="Zukhrufaa-Memon | LinkedIN"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/zukhrufaa_m20/" target="_blank">
+  <img alt="Zukhrufaa Memon | Instagram"  src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+</p>
