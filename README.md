@@ -1,11 +1,11 @@
 
 <p align="center">
   <a href="https://github.com/duaazehra43n">
-    <img src="https://img.shields.io/github/followers/zukhrufaa-memon?label=GitHub&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+    <img src="https://img.shields.io/github/followers/duaazehra43?label=GitHub&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
 
   <a href="www.linkedin.com/in/duaa-zehraa" >
-   <img alt="Zukhrufaa-Memon | LinkedIN"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+   <img alt="Duaa Zehra | LinkedIN"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </p>
@@ -31,7 +31,7 @@
   <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=duaazehra43&theme=gotham&hide_border=true&fire=C77800&ring=DD910B&background=1F222E" />
 </p>
 
-  <div  align="center"> <img src="https://raw.githubusercontent.com/muhiqsimui/muhiqsimui/output/github-contribution-grid-snake.svg" /></div>
+  
 <hr>
 
 <div align="center">
